@@ -1,4 +1,6 @@
 # Falling Blocks
+![Falling Blocks](https://raw.githubusercontent.com/marshmll/falling-blocks/main/Screenshots/falling%20blocks.png)
+
 This is a simple two dimensional game made in C++ using **SFML** (Simple and Fast Multimedia Library).
 
 I made this game for developing C++ experiente and knowledge :)
