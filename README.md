@@ -3,7 +3,7 @@
 
 This is a simple two dimensional game made in C++ using **SFML** (Simple and Fast Multimedia Library).
 
-I made this game for developing C++ experiente and knowledge :)
+I made this game for developing C++ experience and knowledge :)
 
 Click on the falling blocks as fast and precise you can to get points. When the block hit the screen bottom bound, you will lose one of your 20 lifes. Good luck!
 
